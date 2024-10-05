@@ -3,7 +3,7 @@
 
 <hr>
 
-<h2><a href="https://github.com/NoelClay/webstandard2019-KNY/practice-kny/html">실습 소스 폴더</a></h2>
+<h2><a href="https://github.com/NoelClay/webstandard2019-KNY/tree/c42b639569b4b2dc72be8f4ff4fd381b20b8475c/practice-kny/html/web">실습 소스 폴더</a></h2>
 
 <hr>
 
