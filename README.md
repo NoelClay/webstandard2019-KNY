@@ -3,7 +3,7 @@
 
 <hr>
 
-<h2><a href="http://asdf1578.dothome.co.kr/web/index.html">실습 소스 폴더</a></h2>
+<h2><a href="https://github.com/NoelClay/webstandard2019-KNY/practice-kny/html">실습 소스 폴더</a></h2>
 
 <hr>
 
