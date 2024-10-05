@@ -1,3 +1,12 @@
+
+<h2><a href="http://asdf1578.dothome.co.kr/web/index.html">실습완성 링크</a></h2>
+
+<hr>
+
+<h2><a href="http://asdf1578.dothome.co.kr/web/index.html">실습 소스 폴더</a></h2>
+
+<hr>
+
 # 웹 표준 사이트만들기(2019)
 웹 표준 사이트 만들기 2019 버전입니다.
 
